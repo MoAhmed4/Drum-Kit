@@ -1,5 +1,5 @@
 
-//alert("Welcome, press/click any insrument to play sound.");
+alert("Welcome, press/click any insrument to play sound.");
 
 // Detecting clicks
 for(var i = 0; i < document.querySelectorAll(".drum").length; i++) {
